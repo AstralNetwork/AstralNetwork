@@ -14,7 +14,7 @@
 <!-- ![myst](https://github-readme-stats.vercel.app/api?username=AstralNetwork&show_icons=true&theme=tokyonight)
  -->
 <!--  -->
-## Contact through:
+# Contacts
 [![Discord](https://img.shields.io/discord/918101254998216796?color=%235865F2&label=Discord&style=for-the-badge)](https://discord.com/channels/@me/839018926888189984)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=601110185170&text=Hi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=irfakimu@gmail.com&su=SUBJECT&body=hi&bcc=idk@yahoo.com)
