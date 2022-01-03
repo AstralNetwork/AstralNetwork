@@ -4,10 +4,10 @@
 </p> -->
 
 <!--  -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://hentaihaven.xxx/watch/shoujo-ramune/episode-1/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AstralNetwork&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://nhentai.io/emergence-hentai-177013-shindola-metamorphosis-complete-eng/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralNetwork&langs_count=8" />
 </a>
 
@@ -17,7 +17,7 @@
 ## Contact through:
 [![Discord](https://img.shields.io/discord/918101254998216796?color=%235865F2&label=Discord&style=for-the-badge)](https://discord.com/channels/@me/839018926888189984)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=601110185170&text=Hi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=irfakimu@gmail.com&su=givemeasubject&body=whats%20on%20your%20mind&bcc=irfakimu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=irfakimu@gmail.com&su=SUBJECT&body=hi&bcc=idk@yahoo.com)
 <!--
 **AstralNetwork/AstralNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
