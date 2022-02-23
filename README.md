@@ -2,10 +2,11 @@
 
 <header>
     <h1 align="center">AstralNetwork</h1>
+    <img align="center" src="https://i.pinimg.com/originals/65/ab/8d/65ab8dccc16162edc54a6f5f60eb4b85.gif" />
 </header>
-<a href="-">
-    <img align"center" src"https://i.pinimg.com/originals/65/ab/8d/65ab8dccc16162edc54a6f5f60eb4b85.gif" />
-</a>
+<!-- <a href="-">
+    <img align="center" src="https://i.pinimg.com/originals/65/ab/8d/65ab8dccc16162edc54a6f5f60eb4b85.gif" />
+</a> -->
 
 <!--  -->
 <a href="-">
