@@ -1,23 +1,15 @@
 <!-- ![alt text](https://github.com/AstralNetwork/AstralNetwork/blob/main/a.png?raw=true) -->
 
-<header>
+<!-- <header>
     <h1 align="center">AstralNetwork</h1>
-</header>
+</header> -->
 <!-- <img align="center" src="https://cdn.discordapp.com/attachments/943126932478906442/955675546400981042/IMG_7672.gif" /> -->
 <!-- <a href="-">
     <img align="center" src="https://i.pinimg.com/originals/65/ab/8d/65ab8dccc16162edc54a6f5f60eb4b85.gif" />
 </a> -->
 
 <!--  -->
-<a href="-">
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AstralNetwork&theme=tokyonight" />
-</a>
-<a href="-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AstralNetwork&show_icons=true&theme=tokyonight" />
-</a>
-<a href="-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralNetwork&langs_count=8" />
-</a>
+
 
 <!-- ![myst](https://github-readme-stats.vercel.app/api?username=AstralNetwork&show_icons=true&theme=tokyonight)
  -->
